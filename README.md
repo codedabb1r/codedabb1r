@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:2f43a8,100:c21e3f&height=170&section=header&text=Hello%20Ken's%20World&fontSize=30&&animation=twinkling&fontAlignY=30&fontColor=ffffffba)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:2f43a8,100:c21e3f&height=170&section=header&text=Hello!%20Ken's%20World&fontSize=30&&animation=twinkling&fontAlignY=30&fontColor=ffffffba)
 ## ☀️ About Me
 <p> 이제 막 개발공부를 시작하였습니다. 2023.1.</p>
 <p>
