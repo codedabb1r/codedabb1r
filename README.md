@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:2f43a8,100:c21e3f&height=170&section=header&text=Hello!%20Ken's%20World&fontSize=30&&animation=twinkling&fontAlignY=30&fontColor=ffffffba)
-## ☀️ About Me
+## 🧑🏻‍💻 About Me
 <p> 이제 막 개발공부를 시작하였습니다. 2023.1.13</p>
 <p>
   <a href="https://ken101112.github.io" target="_blank"><img src="https://img.shields.io/badge/ProblemSolvingBlog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:ken101112@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/ken101112@hotmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
-## 💻 Tech Stacks
+## 🍚 Tech Stacks
 
 **Langages**
 <div>
@@ -20,10 +20,13 @@
 <div>
   <img src="https://img.shields.io/badge/Node.js-131418?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
   <img src="https://img.shields.io/badge/React-131418?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-131418?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/jQuery-131418?style=for-the-badge&logo=jquery&logoColor=0769AD" />
   <img src="https://img.shields.io/badge/Bootstrap-131418?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
 </div><br />
 
 **Others**
 <div>
   <img src="https://img.shields.io/badge/Git-131418?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Markdown-131418?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
