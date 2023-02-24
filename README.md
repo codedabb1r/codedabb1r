@@ -10,10 +10,10 @@
 
 **Langages**
 <div>
-  <img src="https://img.shields.io/badge/JavaScript-131418?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
-  <img src="https://img.shields.io/badge/TypeScript-131418?style=for-the-badge&logo=typescript&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/HTML5-131418?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-131418?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-131418?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
+  <img src="https://img.shields.io/badge/TypeScript-131418?style=for-the-badge&logo=typescript&logoColor=007ACC" />
 </div><br />
 
 **Frameworks / Library**
