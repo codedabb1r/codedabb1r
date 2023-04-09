@@ -20,6 +20,8 @@
 <div>
   <img src="https://img.shields.io/badge/jQuery-131418?style=for-the-badge&logo=jquery&logoColor=0769AD" />
   <img src="https://img.shields.io/badge/Bootstrap-131418?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-131418?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-131418?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-131418?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
