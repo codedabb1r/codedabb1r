@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:2f43a8,100:c21e3f&height=170&section=header&text=Dev%20as%20Life&fontSize=30&&animation=twinkling&fontAlignY=30&fontColor=ffffffba)
 ## 🦄 About Me
-<p> 이제 막 개발공부를 시작하였습니다. 🐣 2023.1.13</p>
+<p> 개발공부를 시작하였습니다. 🐣 2023.1.13</p>
 <p>
   <a href="https://codedabb1r.github.io" target="_blank"><img src="https://img.shields.io/badge/ProblemSolvingBlog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:ken101112@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/codedabb1r@hotmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
