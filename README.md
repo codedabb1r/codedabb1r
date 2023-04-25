@@ -30,6 +30,6 @@
 
 **Others**
 <div>
-  <img src="https://img.shields.io/badge/Git-131418?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Markdown-131418?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-131418?style=for-the-badge&logo=git&logoColor=F05032" />
 </div>
