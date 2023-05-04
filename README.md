@@ -2,10 +2,8 @@
 
 ## 🦄 About Me
 <p> 개발공부를 시작하였습니다. 2023.1.13</p>
-<p>
-  <a href="https://codedabb1r.github.io" target="_blank"><img src="https://img.shields.io/badge/ProblemSolvingBlog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:ken101112@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/codedabb1r@hotmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-</p>
+<p><a href="https://codedabb1r.github.io" target="_blank"><img src="https://img.shields.io/badge/ProblemSolvingBlog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:ken101112@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/codedabb1r@hotmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a></p>
 
 ## 🍚 Tech Stacks
 
