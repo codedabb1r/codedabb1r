@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:2f43a8,100:c21e3f&height=170&section=header&text=Dev%20as%20Life&fontSize=30&&animation=twinkling&fontAlignY=30&fontColor=ffffffba)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:2f43a8,100:c21e3f&height=170&section=header&text=Dev%20As%20Life&fontSize=30&&animation=twinkling&fontAlignY=30&fontColor=ffffffba)
 
 ## 🦄 About Me
 <p><a href="https://codedabb1r.github.io" target="_blank"><img src="https://img.shields.io/badge/ProblemSolvingBlog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
